@@ -1,0 +1,6 @@
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\PointInShape\bin\Debug\PointInShape.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\PointInShape\bin\Debug\PointInShape.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\PointInShape\bin\Debug\PointInShape.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\PointInShape\obj\Debug\PointInShape.csprojResolveAssemblyReference.cache
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\PointInShape\obj\Debug\PointInShape.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\PointInShape\obj\Debug\PointInShape.pdb

@@ -1,0 +1,6 @@
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\DaysOfWeekSwitchCase\bin\Debug\DaysOfWeekSwitchCase.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\DaysOfWeekSwitchCase\bin\Debug\DaysOfWeekSwitchCase.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\DaysOfWeekSwitchCase\bin\Debug\DaysOfWeekSwitchCase.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\DaysOfWeekSwitchCase\obj\Debug\DaysOfWeekSwitchCase.csprojResolveAssemblyReference.cache
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\DaysOfWeekSwitchCase\obj\Debug\DaysOfWeekSwitchCase.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\DaysOfWeekSwitchCase\obj\Debug\DaysOfWeekSwitchCase.pdb

@@ -1,0 +1,6 @@
+c:\users\kristian\documents\visual studio 2017\Projects\SoftUni-If\SoftUni-If\bin\Debug\SoftUni-If.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\SoftUni-If\SoftUni-If\bin\Debug\SoftUni-If.exe
+c:\users\kristian\documents\visual studio 2017\Projects\SoftUni-If\SoftUni-If\bin\Debug\SoftUni-If.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\SoftUni-If\SoftUni-If\obj\Debug\SoftUni-If.csprojResolveAssemblyReference.cache
+c:\users\kristian\documents\visual studio 2017\Projects\SoftUni-If\SoftUni-If\obj\Debug\SoftUni-If.exe
+c:\users\kristian\documents\visual studio 2017\Projects\SoftUni-If\SoftUni-If\obj\Debug\SoftUni-If.pdb

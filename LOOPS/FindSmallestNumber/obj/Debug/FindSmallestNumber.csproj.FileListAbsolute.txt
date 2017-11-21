@@ -1,0 +1,6 @@
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\FindSmallestNumber\bin\Debug\FindSmallestNumber.exe.config
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\FindSmallestNumber\bin\Debug\FindSmallestNumber.exe
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\FindSmallestNumber\bin\Debug\FindSmallestNumber.pdb
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\FindSmallestNumber\obj\Debug\FindSmallestNumber.csprojResolveAssemblyReference.cache
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\FindSmallestNumber\obj\Debug\FindSmallestNumber.exe
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\FindSmallestNumber\obj\Debug\FindSmallestNumber.pdb

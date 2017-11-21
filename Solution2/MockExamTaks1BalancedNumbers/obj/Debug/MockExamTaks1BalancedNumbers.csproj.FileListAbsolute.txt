@@ -1,0 +1,6 @@
+c:\users\kristian\documents\visual studio 2017\Projects\Solution2\MockExamTaks1BalancedNumbers\bin\Debug\MockExamTaks1BalancedNumbers.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\Solution2\MockExamTaks1BalancedNumbers\bin\Debug\MockExamTaks1BalancedNumbers.exe
+c:\users\kristian\documents\visual studio 2017\Projects\Solution2\MockExamTaks1BalancedNumbers\bin\Debug\MockExamTaks1BalancedNumbers.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\Solution2\MockExamTaks1BalancedNumbers\obj\Debug\MockExamTaks1BalancedNumbers.csprojResolveAssemblyReference.cache
+c:\users\kristian\documents\visual studio 2017\Projects\Solution2\MockExamTaks1BalancedNumbers\obj\Debug\MockExamTaks1BalancedNumbers.exe
+c:\users\kristian\documents\visual studio 2017\Projects\Solution2\MockExamTaks1BalancedNumbers\obj\Debug\MockExamTaks1BalancedNumbers.pdb

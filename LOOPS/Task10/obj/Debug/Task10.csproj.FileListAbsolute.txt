@@ -1,0 +1,6 @@
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\Task10\bin\Debug\Task10.exe.config
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\Task10\bin\Debug\Task10.exe
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\Task10\bin\Debug\Task10.pdb
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\Task10\obj\Debug\Task10.csprojResolveAssemblyReference.cache
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\Task10\obj\Debug\Task10.exe
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\Task10\obj\Debug\Task10.pdb

@@ -1,0 +1,5 @@
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\typeOfAnimal\bin\Debug\typeOfAnimal.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\typeOfAnimal\bin\Debug\typeOfAnimal.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\typeOfAnimal\bin\Debug\typeOfAnimal.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\typeOfAnimal\obj\Debug\typeOfAnimal.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\typeOfAnimal\obj\Debug\typeOfAnimal.pdb

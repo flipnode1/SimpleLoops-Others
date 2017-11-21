@@ -1,0 +1,6 @@
+c:\users\kristian\documents\visual studio 2017\Projects\AddingSeconds\AddingSeconds\bin\Debug\AddingSeconds.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\AddingSeconds\AddingSeconds\bin\Debug\AddingSeconds.exe
+c:\users\kristian\documents\visual studio 2017\Projects\AddingSeconds\AddingSeconds\bin\Debug\AddingSeconds.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\AddingSeconds\AddingSeconds\obj\Debug\AddingSeconds.csprojResolveAssemblyReference.cache
+c:\users\kristian\documents\visual studio 2017\Projects\AddingSeconds\AddingSeconds\obj\Debug\AddingSeconds.exe
+c:\users\kristian\documents\visual studio 2017\Projects\AddingSeconds\AddingSeconds\obj\Debug\AddingSeconds.pdb

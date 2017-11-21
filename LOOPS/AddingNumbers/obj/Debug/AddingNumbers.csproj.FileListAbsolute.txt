@@ -1,0 +1,5 @@
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\AddingNumbers\bin\Debug\AddingNumbers.exe.config
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\AddingNumbers\bin\Debug\AddingNumbers.exe
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\AddingNumbers\bin\Debug\AddingNumbers.pdb
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\AddingNumbers\obj\Debug\AddingNumbers.exe
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\AddingNumbers\obj\Debug\AddingNumbers.pdb

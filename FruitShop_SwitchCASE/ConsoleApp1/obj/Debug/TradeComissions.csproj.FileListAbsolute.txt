@@ -1,0 +1,6 @@
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\ConsoleApp1\obj\Debug\TradeComissions.csprojResolveAssemblyReference.cache
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

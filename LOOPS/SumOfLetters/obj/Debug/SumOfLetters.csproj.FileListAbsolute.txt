@@ -1,0 +1,6 @@
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\SumOfLetters\bin\Debug\SumOfLetters.exe.config
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\SumOfLetters\bin\Debug\SumOfLetters.exe
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\SumOfLetters\bin\Debug\SumOfLetters.pdb
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\SumOfLetters\obj\Debug\SumOfLetters.csprojResolveAssemblyReference.cache
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\SumOfLetters\obj\Debug\SumOfLetters.exe
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\SumOfLetters\obj\Debug\SumOfLetters.pdb

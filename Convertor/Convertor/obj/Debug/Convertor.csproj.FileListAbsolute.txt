@@ -1,0 +1,6 @@
+c:\users\kristian\documents\visual studio 2017\Projects\Convertor\Convertor\obj\Debug\Convertor.csprojResolveAssemblyReference.cache
+c:\users\kristian\documents\visual studio 2017\Projects\Convertor\Convertor\bin\Debug\Convertor.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\Convertor\Convertor\bin\Debug\Convertor.exe
+c:\users\kristian\documents\visual studio 2017\Projects\Convertor\Convertor\bin\Debug\Convertor.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\Convertor\Convertor\obj\Debug\Convertor.exe
+c:\users\kristian\documents\visual studio 2017\Projects\Convertor\Convertor\obj\Debug\Convertor.pdb

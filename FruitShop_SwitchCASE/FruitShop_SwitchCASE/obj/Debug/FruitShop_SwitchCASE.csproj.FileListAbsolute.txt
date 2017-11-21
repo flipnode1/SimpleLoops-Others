@@ -1,0 +1,6 @@
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\FruitShop_SwitchCASE\bin\Debug\FruitShop_SwitchCASE.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\FruitShop_SwitchCASE\bin\Debug\FruitShop_SwitchCASE.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\FruitShop_SwitchCASE\bin\Debug\FruitShop_SwitchCASE.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\FruitShop_SwitchCASE\obj\Debug\FruitShop_SwitchCASE.csprojResolveAssemblyReference.cache
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\FruitShop_SwitchCASE\obj\Debug\FruitShop_SwitchCASE.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\FruitShop_SwitchCASE\obj\Debug\FruitShop_SwitchCASE.pdb

@@ -1,0 +1,6 @@
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\OddEvenPositions\bin\Debug\OddEvenPositions.exe.config
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\OddEvenPositions\bin\Debug\OddEvenPositions.exe
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\OddEvenPositions\bin\Debug\OddEvenPositions.pdb
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\OddEvenPositions\obj\Debug\OddEvenPositions.csprojResolveAssemblyReference.cache
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\OddEvenPositions\obj\Debug\OddEvenPositions.exe
+c:\Users\Kristian\documents\visual studio 2017\Projects\LOOPS\OddEvenPositions\obj\Debug\OddEvenPositions.pdb

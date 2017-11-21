@@ -1,0 +1,5 @@
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Cinema\bin\Debug\Cinema.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Cinema\bin\Debug\Cinema.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Cinema\bin\Debug\Cinema.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Cinema\obj\Debug\Cinema.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Cinema\obj\Debug\Cinema.pdb

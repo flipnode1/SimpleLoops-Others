@@ -1,0 +1,6 @@
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Volleyball\bin\Debug\Volleyball.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Volleyball\bin\Debug\Volleyball.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Volleyball\bin\Debug\Volleyball.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Volleyball\obj\Debug\Volleyball.csprojResolveAssemblyReference.cache
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Volleyball\obj\Debug\Volleyball.exe
+c:\users\kristian\documents\visual studio 2017\Projects\FruitShop_SwitchCASE\Volleyball\obj\Debug\Volleyball.pdb

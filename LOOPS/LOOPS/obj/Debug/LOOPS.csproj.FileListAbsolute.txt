@@ -1,0 +1,6 @@
+c:\users\kristian\documents\visual studio 2017\Projects\LOOPS\LOOPS\bin\Debug\LOOPS.exe.config
+c:\users\kristian\documents\visual studio 2017\Projects\LOOPS\LOOPS\bin\Debug\LOOPS.exe
+c:\users\kristian\documents\visual studio 2017\Projects\LOOPS\LOOPS\bin\Debug\LOOPS.pdb
+c:\users\kristian\documents\visual studio 2017\Projects\LOOPS\LOOPS\obj\Debug\LOOPS.csprojResolveAssemblyReference.cache
+c:\users\kristian\documents\visual studio 2017\Projects\LOOPS\LOOPS\obj\Debug\LOOPS.exe
+c:\users\kristian\documents\visual studio 2017\Projects\LOOPS\LOOPS\obj\Debug\LOOPS.pdb
